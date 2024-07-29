@@ -1,0 +1,28 @@
+{
+  "name": "vue3-word",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "docxtemplater": "^3.47.0",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "echarts": "^5.5.0",
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "pizzip": "^3.1.7",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "naive-ui": "^2.38.1",
+    "vue-router": "^4.0.15",
+    "vfonts": "^0.0.3",
+    "vite": "^5.2.0"
+  }
+}
